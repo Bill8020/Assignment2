@@ -47,7 +47,6 @@ def main():
     total_cost = float(input("Enter the total cost for one year: "))
     # Then ask for the credits this semester.
     credits = int(input("Enter the number of credits for this semester: "))
-    # skipped_classes = int(input("Enter the number of skipped classes: "))
 
     while True:
         # Show your menu here.
